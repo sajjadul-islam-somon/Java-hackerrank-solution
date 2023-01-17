@@ -1,6 +1,6 @@
 import java.util.Calendar;
 import java.util.Scanner;
-public class practice {
+public class solution {
     public static String weekDay(int m, int d, int y) {
         Calendar c = Calendar.getInstance();
         c.set(y,m-1,d);
